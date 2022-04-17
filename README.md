@@ -1,4 +1,4 @@
-![npm](https://img.shields.io/npm/v/react-native?color=%232fa90f&label=react&style=plastic)
+![npm](https://img.shields.io/npm/v/react?color=%232fa90f&label=react&style=plastic)
 ![npm](https://img.shields.io/npm/dm/react-floating-text-input?style=plastic)
 ![npm](https://img.shields.io/npm/dt/react-floating-text-input?style=plastic)
 
@@ -6,7 +6,7 @@
 
 This is a React input component, containing a floating placeholder, visible even after filled in, that you can freely modify its styles 💅🎉
 
-<img src ="https://i.imgur.com/dNysEdn.gif" width="40%"/>
+<img src ="https://i.imgur.com/dNysEdn.gif" width="80%"/>
 
 ```javascript
 /** placeholder value */
