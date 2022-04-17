@@ -1,7 +1,7 @@
 {
   "name": "react-floating-text-input",
   "description": "A simple and customizable React input with it's placeholder always shown.",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "author": "Caio Nilton <cnilton>",
   "main": "src/index.tsx",
   "private": false,

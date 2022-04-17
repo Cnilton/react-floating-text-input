@@ -6,7 +6,7 @@
 
 This is a React input component, containing a floating placeholder, visible even after filled in, that you can freely modify its styles 💅🎉
 
-<img src ="https://i.imgur.com/dNysEdn.gif" width="80%"/>
+<img src ="https://i.imgur.com/dNysEdn.gif" width="100%"/>
 
 ```javascript
 /** placeholder value */
