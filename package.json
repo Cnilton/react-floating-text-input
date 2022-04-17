@@ -1,5 +1,5 @@
 {
-  "name": "react-floating-label-input",
+  "name": "@cbarroso/react-floating-label-input",
   "description": "A simple and customizable React input with it's placeholder always shown.",
   "version": "0.0.1",
   "author": "Caio Nilton <cnilton>",
