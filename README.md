@@ -1,6 +1,6 @@
 ![npm](https://img.shields.io/npm/v/react-native?color=%232fa90f&label=react&style=plastic)
-![npm](https://img.shields.io/npm/dm/react-floating-label-input?style=plastic)
-![npm](https://img.shields.io/npm/dt/react-floating-label-input?style=plastic)
+![npm](https://img.shields.io/npm/dm/react-floating-text-input?style=plastic)
+![npm](https://img.shields.io/npm/dt/react-floating-text-input?style=plastic)
 
 # About
 
@@ -42,13 +42,13 @@ staticLabel?: boolean;
 To install just input the following command:
 
 ```bash
-npm i react-floating-label-input
+npm i react-floating-text-input
 ```
 
 or
 
 ```bash
-yarn add react-floating-label-input
+yarn add react-floating-text-input
 
 ```
 
