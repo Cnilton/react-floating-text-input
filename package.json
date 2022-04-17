@@ -1,7 +1,31 @@
 {
   "name": "react-floating-label-input",
-  "version": "0.1.0",
-  "private": true,
+  "description": "A simple and customizable React input with it's placeholder always shown.",
+  "version": "0.0.1",
+  "author": "Caio Nilton <cnilton>",
+  "main": "src/index.tsx",
+  "private": false,
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Cnilton/react-floating-label-input.git"
+  },
+  "bugs": {
+    "url": "https://github.com/Cnilton/react-floating-label-input/issues"
+  },
+  "license": "MIT",
+  "keywords": [
+    "react",
+    "react-component",
+    "component",
+    "input",
+    "floating",
+    "text-input",
+    "customizable",
+    "placeholder",
+    "react-floating-label-input",
+    "floating-label-input",
+    "FloatingLabelInput"
+  ],
   "dependencies": {
     "@testing-library/jest-dom": "^5.14.1",
     "@testing-library/react": "^13.0.0",
